@@ -4,4 +4,5 @@ uuid==1.30
 pillow==10.4.0
 psycopg-binary==3.2.5
 django-extensions==3.2.3
-djnago_rest_framework
+django_rest_framework
+django-silk==5.3.2
