@@ -6,3 +6,6 @@ psycopg-binary==3.2.5
 django-extensions==3.2.3
 django_rest_framework
 django-silk==5.3.2
+djangorestframework-simplejwt
+drf-spectacular
+django-filter
